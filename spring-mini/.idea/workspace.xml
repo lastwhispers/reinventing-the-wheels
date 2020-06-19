@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2076ea35-f21c-4823-9283-60f444600383" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/test">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mini-spring" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mini-spring" type="f1a62948:ProjectNode" />
+                <item name="test" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mini-spring" type="f1a62948:ProjectNode" />
+                <item name="test" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mini-spring" type="f1a62948:ProjectNode" />
+                <item name="test" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mini-spring" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sout</find>
+      <find>mappingHandlerList</find>
+      <find>bean</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1aeJrwEWYxzt2OZyZBqi6r8C8bt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.lastwhisper.spring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\GitRepository\mini-spring\framework\src\main\java\cn\lastwhisper\spring" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lastwhisper.spring.Application" />
+      <module name="mini-spring.test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lastwhisper.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mini-spring:test [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/test" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Gradle.mini-spring:test [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2076ea35-f21c-4823-9283-60f444600383" name="Default Changelist" comment="" />
+      <created>1561781421150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561781421150</updated>
+      <workItem from="1561781422697" duration="425000" />
+      <workItem from="1561781854387" duration="93000" />
+      <workItem from="1561785297352" duration="218000" />
+      <workItem from="1561785543084" duration="213000" />
+      <workItem from="1561785784798" duration="8430000" />
+      <workItem from="1561796267563" duration="1358000" />
+      <workItem from="1561797679525" duration="66000" />
+      <workItem from="1561797782203" duration="1121000" />
+      <workItem from="1561798941779" duration="4582000" />
+      <workItem from="1561805753403" duration="308000" />
+      <workItem from="1561806089079" duration="568000" />
+      <workItem from="1561979731555" duration="1789000" />
+      <workItem from="1562135519892" duration="1288000" />
+      <workItem from="1562209312793" duration="114000" />
+      <workItem from="1587090330329" duration="446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2281" y="75" key="#Project_Structure" timestamp="1587090546279">
+      <screen x="1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="2281" y="75" key="#Project_Structure/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090546279" />
+    <state width="1128" height="197" key="GridCell.Tab.0.bottom" timestamp="1587090776326">
+      <screen x="1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1128" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776326" />
+    <state width="1128" height="197" key="GridCell.Tab.0.center" timestamp="1587090776325">
+      <screen x="1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1128" height="197" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776325" />
+    <state width="1128" height="197" key="GridCell.Tab.0.left" timestamp="1587090776325">
+      <screen x="1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1128" height="197" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776325" />
+    <state width="1128" height="197" key="GridCell.Tab.0.right" timestamp="1587090776325">
+      <screen x="1920" y="0" width="1536" height="834" />
+    </state>
+    <state width="1128" height="197" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776325" />
+    <state x="2197" y="59" key="SettingsEditor" timestamp="1587090421412">
+      <screen x="1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="2197" y="59" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090421412" />
+  </component>
+</project>
