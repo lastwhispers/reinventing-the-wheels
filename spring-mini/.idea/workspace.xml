@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2076ea35-f21c-4823-9283-60f444600383" name="Default Changelist" comment="" />
+    <list default="true" id="2076ea35-f21c-4823-9283-60f444600383" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spring-mini.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spring-mini.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,30 +44,20 @@
         <task path="$PROJECT_DIR$/test">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mini-spring" type="f1a62948:ProjectNode" />
+                <item name="spring-mini" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mini-spring" type="f1a62948:ProjectNode" />
-                <item name="test" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mini-spring" type="f1a62948:ProjectNode" />
-                <item name="test" type="2d1252cf:ModuleNode" />
+                <item name="spring-mini" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mini-spring" type="f1a62948:ProjectNode" />
-                <item name="test" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -87,21 +85,26 @@
       <find>bean</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aeJrwEWYxzt2OZyZBqi6r8C8bt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
@@ -114,7 +117,7 @@
       <recent name="D:\code\GitRepository\mini-spring\framework\src\main\java\cn\lastwhisper\spring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Gradle.mini-spring:test [jar]">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.lastwhisper.spring.Application" />
       <module name="mini-spring.test.main" />
@@ -144,12 +147,13 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
         <item itemvalue="Gradle.mini-spring:test [jar]" />
       </list>
     </recent_temporary>
@@ -166,6 +170,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -191,6 +196,7 @@
       <workItem from="1562135519892" duration="1288000" />
       <workItem from="1562209312793" duration="114000" />
       <workItem from="1587090330329" duration="446000" />
+      <workItem from="1614655882482" duration="1904000" />
     </task>
     <servers />
   </component>
@@ -204,32 +210,17 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2281" y="75" key="#Project_Structure" timestamp="1587090546279">
-      <screen x="1920" y="0" width="1536" height="834" />
-    </state>
-    <state x="2281" y="75" key="#Project_Structure/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090546279" />
-    <state width="1128" height="197" key="GridCell.Tab.0.bottom" timestamp="1587090776326">
-      <screen x="1920" y="0" width="1536" height="834" />
-    </state>
-    <state width="1128" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776326" />
-    <state width="1128" height="197" key="GridCell.Tab.0.center" timestamp="1587090776325">
-      <screen x="1920" y="0" width="1536" height="834" />
-    </state>
-    <state width="1128" height="197" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776325" />
-    <state width="1128" height="197" key="GridCell.Tab.0.left" timestamp="1587090776325">
-      <screen x="1920" y="0" width="1536" height="834" />
-    </state>
-    <state width="1128" height="197" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776325" />
-    <state width="1128" height="197" key="GridCell.Tab.0.right" timestamp="1587090776325">
-      <screen x="1920" y="0" width="1536" height="834" />
-    </state>
-    <state width="1128" height="197" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090776325" />
-    <state x="2197" y="59" key="SettingsEditor" timestamp="1587090421412">
-      <screen x="1920" y="0" width="1536" height="834" />
-    </state>
-    <state x="2197" y="59" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1587090421412" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
