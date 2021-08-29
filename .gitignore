@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /target/
 
 ### STS or Eclipse ###
@@ -8,3 +9,8 @@
 .settings
 .springBeans
 .sts4-cache
+=======
+.idea/
+target/
+*.iml
+>>>>>>> 16d3d53 (Initial commit)
